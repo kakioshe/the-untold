@@ -1,4 +1,4 @@
-#The Untold
+# The Untold 
 
 The Untold is an interactive public installation made by Team Placebo for DECO3850: Physical Computing course
 at University of Queensland. The Untold installation aims to repair the user's current emotion, and to raise
