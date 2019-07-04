@@ -7,3 +7,6 @@
 [submodule "the-untold-listener"]
 	path = the-untold-listener
 	url = https://github.com/kakioshe/the-untold-listener.git
+[submodule "the-untold-server"]
+	path = the-untold-server
+	url = https://github.com/kakioshe/the-untold-server.git
