@@ -8,4 +8,4 @@ Further information about The Untold is written on https://kakioshe.github.io/th
 There are two sides of The Untold, The Conveyor and The Listener. The Conveyor will be able to share their stories,
 while The Listener will be able to give feedback based on The Conveyor's emotion. The Untold was built on Raspberry Pi
 using Python. It uses IBM's ToneAnalyzer for the emotion detector, PyAudio library for sound processing, AWS S3 Server
-to store feedback data, Heroku server for state management, and GitHub for version control. 
+to store feedback data, Heroku server for state management, MongoDB for database, and GitHub for version control. 
