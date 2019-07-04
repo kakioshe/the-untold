@@ -1,0 +1,9 @@
+[submodule "the-untold-speaker"]
+	path = the-untold-speaker
+	url = https://github.com/kakioshe/the-untold-speaker.git
+[submodule "the-untold-website"]
+	path = the-untold-website
+	url = https://github.com/kakioshe/the-untold-website.git
+[submodule "the-untold-listener"]
+	path = the-untold-listener
+	url = https://github.com/kakioshe/the-untold-listener.git
